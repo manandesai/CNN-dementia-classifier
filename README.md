@@ -13,3 +13,5 @@ The code for this project can be found at source_code.py
 The dataset can be found at https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images
 
 The corresponding presentation can found at [insert link to presentation].
+
+#### Authors: Shuming Chen, Manan Desai, Martina Galvan, Qianhui Lian, Christina Zhao
